@@ -8,11 +8,11 @@ npm i uni-mini-router --save
 ```
 
 ```bash [yarn]
-yarn add uni-mini-router -D
+yarn add uni-mini-router
 ```
 
 ```bash [pnpm]
-pnpm add uni-mini-router -D
+pnpm i uni-mini-router
 ```
 :::
 
@@ -32,15 +32,15 @@ pnpm add uni-mini-router -D
 
 ::: code-group
 ```bash [npm]
-npm i add uni-parse-pages --save
+npm i uni-parse-pages --save-dev
 ```
 
 ```bash [yarn]
-yarn add add uni-parse-pages -D
+yarn add uni-parse-pages -D
 ```
 
 ```bash [pnpm]
-pnpm add add uni-parse-pages -D
+pnpm i uni-parse-pages -D
 ```
 :::
 
@@ -49,15 +49,15 @@ pnpm add add uni-parse-pages -D
 
 ::: code-group
 ```bash [npm]
-npm i add uni-read-pages-vite --save
+npm i uni-read-pages-vite --save-dev
 ```
 
 ```bash [yarn]
-yarn add add uni-read-pages-vite -D
+yarn add uni-read-pages-vite -D
 ```
 
 ```bash [pnpm]
-pnpm add add uni-read-pages-vite -D
+pnpm i uni-read-pages-vite -D
 ```
 :::
 
